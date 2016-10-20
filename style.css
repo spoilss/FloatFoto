@@ -1,0 +1,43 @@
+ /* general */ 
+body{
+
+	margin: 0 auto;
+	/*outline: 2px solid #000;*/
+}
+ .container{
+	 width: 1350px;
+	 height: 1000px;
+
+ }
+
+.first{
+	float:right;
+	background: darkmagenta;
+	width: 60%;
+	overflow: hidden;
+
+
+}
+img
+{
+	height: 100px;
+	width: 100px;
+	vertical-align: top;
+}
+
+ .second{
+	 float:left;
+	 background: #449aff;
+	 width: 40%;
+	 overflow: hidden;
+
+ }
+ .first img{
+	 height: 25%;
+	 width: 20%;
+ }
+ .second img{
+	 height: 41%;
+	 width: 49%;
+	 /*margin-left: -10%;*/
+ }
